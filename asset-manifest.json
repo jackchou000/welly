@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wellys/static/css/main.631f9ee9.css",
+    "main.js": "/wellys/static/js/main.31064304.js",
+    "static/js/787.23d7f786.chunk.js": "/wellys/static/js/787.23d7f786.chunk.js",
+    "index.html": "/wellys/index.html",
+    "main.631f9ee9.css.map": "/wellys/static/css/main.631f9ee9.css.map",
+    "main.31064304.js.map": "/wellys/static/js/main.31064304.js.map",
+    "787.23d7f786.chunk.js.map": "/wellys/static/js/787.23d7f786.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.631f9ee9.css",
+    "static/js/main.31064304.js"
+  ]
+}
