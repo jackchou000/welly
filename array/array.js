@@ -4,4 +4,5 @@ function filterNumbersGreaterThanFive(numbers) {
   });
 }
 const numbers = [2, 8, 4, 10, 1, 7];
+console.log("question 2");
 console.log(filterNumbersGreaterThanFive(numbers));
